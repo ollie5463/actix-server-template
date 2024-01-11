@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "create-actix-server-template",
+    "create-actix-server-scripts"
+]
+
+version = "0.1.0"
+edition = "2021"
